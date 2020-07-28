@@ -1,4 +1,4 @@
 # image-classifier
 
-##Introduction
+## Introduction  
 This repository serves as a sandbox for some Tensorflow practice.
